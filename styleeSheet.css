@@ -1,0 +1,59 @@
+body
+{
+    background: rgb(148,233,227);
+    background: linear-gradient(209deg, rgba(148,233,227,1) 48%, rgba(193,174,238,1) 50%);}
+button
+{
+    border: none;
+    color : white ;
+    cursor : pointer ;
+    width: 100px;
+    height: 35px;
+    display:inline-block;
+    font-weight: bold;
+    background: rgb(34,158,195);
+    background: linear-gradient(0deg, rgba(34,158,195,1) 19%, rgba(14,14,14,1) 28%, rgba(34,195,164,1) 50%,
+    rgba(23,98,63,1) 70%, rgba(14,14,14,1) 83%, rgba(14,14,14,1) 97%);
+}
+button:hover
+{
+    color:white;
+    background: rgb(255,0,227);
+    background: linear-gradient(56deg, rgba(255,0,227,0.9551529229856005) 32%, rgba(69,252,247,1) 68%, rgba(29,180,253,1) 69%);
+    font-weight: bold;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+}
+p
+{
+    font-style: italic;
+    color:white;
+}
+h1
+{
+    color:white;
+    font-size: 25px;
+    font-family: "MS PGothic";
+}
+.flip
+{
+    text-align: center ;
+    justify-content: center;
+    justify-items: center;
+    display: block;
+}
+img
+{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+}
+#instagram
+{
+    cursor: pointer;
+}
+span
+{
+    color:dodgerblue;
+}

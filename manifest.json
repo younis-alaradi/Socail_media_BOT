@@ -1,0 +1,15 @@
+{
+  "name": "IT_trainee",
+  "manifest_version":2 ,
+  "description": "Facebook bot , instagram bot , whatsapp auto face sender , twitter auto follow ",
+  "version" : "1.0",
+
+  "browser_action":
+  {
+    "default_icon": "it.png",
+    "default_popup": "List.html"
+  },
+  "permissions": ["activeTab"]
+
+}
+
